@@ -1,6 +1,9 @@
 body{
     display:flex;
     flex-direction: column;
+    background-color: rgb(34, 182, 132);
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   }
   h1, h2, form, button, div, h3{
     align-self: center;
